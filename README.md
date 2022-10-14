@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gaurav_bhatti
 - 👀 I’m interested in Coding & Marketing
 - 🌱 I’m currently learning Databricks
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate with Brand
 - 📫 How to reach me My Protfolio https://gauravbhatti.in/
 
 <!---
