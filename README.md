@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @gaurav_bhatti
-- 👀 I’m interested in Coding & Marketing
-- 🌱 I’m currently learning Databricks
-- 💞️ I’m looking to collaborate with Brand
-- 📫 How to reach me My Protfolio https://gauravbhatti.in/
-
-<!---
-gauravbhatti01/gauravbhatti01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, my name is Gaurav Bhatti and I am a software developer with a passion for coding, designing, and DevOps. I have experience in developing web applications and software solutions using various programming languages such as HTML and JavaScript.
+Currently, I am expanding my skills and knowledge in data engineering by learning Databricks and DevOps.
+I am always eager to learn new technologies and frameworks to improve my work.
+I am open to collaborating with brands and companies that share my passion for technology and innovation.
+If you are interested in working together, please visit my portfolio at https://gauravbhatti.in/.
